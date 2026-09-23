@@ -47,13 +47,13 @@ const CONFIG = {
 
     projectLinks: [
 
-        "",
+        "https://sri-devi-textiles-webiste-user-temp.vercel.app/",
 
-        "",
+        "https://vr-manpower-website-template.vercel.app/",
 
-        "",
+        "https://billing-software-template.vercel.app/",
 
-        ""
+        "https://cafe-website-template-virid.vercel.app/"
 
     ]
 
